@@ -1,4 +1,4 @@
-## Olá, eu sou Gustavo. Estudante da trybe !!
+## Olá, eu sou Gustavo.!!
 
 <div align="center">
   <a href="https://github.com/gustavo-jezini">
