@@ -8,7 +8,6 @@ I have been working as a software developer for three years, primarily as a full
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [gustavojezini@gmail.com](mailto:gustavojezini@gmail.com)
-* 🚀  I'm currently working on [Avantsoft](http://https://avantsoft.com.br/)
 * 🧠  I'm learning AWS
 * 🤝  I'm open to collaborating on Back end projects
 
