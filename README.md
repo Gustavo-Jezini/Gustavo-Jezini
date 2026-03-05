@@ -4,7 +4,7 @@
   <h3>👨‍💻 Full-stack Developer | Next.js | Node.js | NestJS</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/Experience-3+%20Years-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/Experience-4+%20Years-blue?style=flat-square" />
     <img src="https://img.shields.io/badge/Location-Brazil-green?style=flat-square" />
     <img src="https://img.shields.io/badge/Focus-Cloud%20&%20AI-orange?style=flat-square" />
   </p>
@@ -14,7 +14,7 @@
 
 ### ⚡ About Me
 
-I am a Full-stack Developer with over 3 years of experience specializing in the JavaScript ecosystem. My expertise lies in building robust, scalable, and high-performance applications using **Next.js** on the frontend and solid architectures with **NestJS** or **Node.js** on the backend.
+I am a Full-stack Developer with over 4 years of experience specializing in the JavaScript ecosystem. My expertise lies in building robust, scalable, and high-performance applications using **Next.js** on the frontend and solid architectures with **NestJS** or **Node.js** on the backend.
 
 - 🚀 Currently mastering **AWS Architecture** and **Cloud Computing**.
 - 🛠️ Passionate about turning complex ideas into clean, functional code.
