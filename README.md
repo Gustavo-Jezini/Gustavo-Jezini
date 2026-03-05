@@ -71,6 +71,7 @@ Sou um Desenvolvedor Full-stack com mais de 3 anos de experiência focado no eco
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-jezini&bg_color=1c1917&color=00d2ff&line=00d2ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
+
 ---
 
 ### 📱 Let's Connect!
