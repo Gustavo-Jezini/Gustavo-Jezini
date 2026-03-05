@@ -4,7 +4,7 @@
   <h3>👨‍💻 Full-stack Developer | Next.js | Node.js | NestJS</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/Experience-3+%20Years-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/Experience-4+%20Years-blue?style=flat-square" />
     <img src="https://img.shields.io/badge/Location-Brazil-green?style=flat-square" />
     <img src="https://img.shields.io/badge/Status-Building%20SaaS-orange?style=flat-square" />
   </p>
@@ -64,14 +64,13 @@ Sou um Desenvolvedor Full-stack com mais de 3 anos de experiência focado no eco
 ### 📊 GitHub Stats & Grind
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavo-jezini&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-jezini&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="180px" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SEU_USUARIO&bg_color=1c1917&color=00d2ff&line=00d2ff&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-jezini&bg_color=1c1917&color=00d2ff&line=00d2ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
-
 ---
 
 ### 📱 Let's Connect!
@@ -83,7 +82,7 @@ Sou um Desenvolvedor Full-stack com mais de 3 anos de experiência focado no eco
   <a href="mailto:gustavojezini@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/Gustavo-Jezini">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
